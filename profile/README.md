@@ -1,4 +1,4 @@
-<img src="vef.png" width="100" height="100">
+<img style="margin:auto;" src="vef.png" width="100" height="100">
 
 # Very Easy Framework
 
