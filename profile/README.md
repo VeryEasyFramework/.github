@@ -8,4 +8,4 @@
 
 A no-nonsense, easy-to-use, all-in-one web framework built for the Deno runtime
 
-[https:/veryeasyframework.com]
+[Documentation][https://veryeasyframework.com]
